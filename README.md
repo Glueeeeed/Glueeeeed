@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**Glueeeeed/Glueeeeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, there 👋</h1>
+<h3 align="center">Backend Developer • Creator of GlueScript programming language</h3>
+<h4 align="center">🔭 Currently designing & implementing GlueScript</h4>
+<h4 align="center">🌱 Deeply passionate about cryptography, language design and secure systems</h4>
+<h4 align="center"> ⚡ Fun fact: I literally see glue and nonces in my dreams</h4>
+<div align="center">
 
-Here are some ideas to get you started:
+<h3><a href="#">&#x200B;</a>✨ Languages & Tools ✨</h3>
+<img src="https://skillicons.dev/icons?i=js,ts,php,cpp,java" height="40px" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,git,github,linux,phpstorm,webstorm,postman" height="30px" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
