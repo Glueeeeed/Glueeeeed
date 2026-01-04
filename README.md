@@ -1,5 +1,7 @@
-
-<h1 align="center">Hi, there 👋</h1>
+<h1 align="center">
+0uzl7u+lqtK52CpxoXtNcV5qCSmXBLP0J/LRMb+Ef+E=
+</h1>
+<h3 align="center">Hi, there 👋</h3>
 <h3 align="center">Backend Developer • Creator of GlueScript programming language</h3>
 <h4 align="center">🔭 Currently designing & implementing GlueScript</h4>
 <h4 align="center">🌱 Deeply passionate about cryptography, language design and secure systems</h4>
@@ -10,6 +12,10 @@
 <img src="https://skillicons.dev/icons?i=js,ts,php,cpp,java" height="40px" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mysql,git,github,linux,phpstorm,webstorm,postman" height="30px" />
 </div>
+
+<h1 align="center">
+0uzl7u+lqtK52CpxoXtNcV5qCSmXBLP0J/LRMb+Ef+E=
+</h1>
 
 
 
