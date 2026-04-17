@@ -6,6 +6,7 @@ a5gTWQqr+QcWoKOPvZvQNyYPXOCXm4g2XGZ4ErR/uYU=:tq70Sh9zbhCt/Uwp:RRXlDu7VnGR9zYv3nV
 <h4 align="center">🔭 Currently designing & implementing GlueScript</h4>
 <h4 align="center">🌱 Deeply passionate about cryptography, language design and secure systems</h4>
 <h4 align="center"> ⚡ Fun fact: I literally see glue and nonces in my dreams</h4>
+<p> https://glueeed.dev </p>
 <div align="center">
 
 <h3><a href="#">&#x200B;</a>✨ Languages & Tools ✨</h3>
