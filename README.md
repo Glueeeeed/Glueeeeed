@@ -12,7 +12,7 @@
 
 Hi, my name is Kuba. I am 17 years old. I am interested in backend technologies and cryptography. I am obsessed with security and passionate about designing secure systems. I am currently designing my own programming language :D
 
-🔭 &nbsp;I'm currently working on **Glue &amp; GlueChat**  
+🔭 &nbsp;I'm currently working on **Glued &amp; GlueChat**  
 ⚡ &nbsp;Fun fact: **I literally see glue and nonces in my dreams**
 
 ### 🛠️ Tech Stack
